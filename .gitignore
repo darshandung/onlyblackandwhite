@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/build
+#/build  // this is temprorary comment for github pages deployment
 
 # misc
 .DS_Store
